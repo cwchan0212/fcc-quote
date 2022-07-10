@@ -1,5 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title></title>
+  </head>
   <body>
-    <h1>[FreeCodeCamp] Front End Development Libraries Projects</h1>
+    <h1>Front End Development Libraries Projects</h1>
 
     <h2>Build a Random Quote Machine</h2>
     <p align="justify">
@@ -54,3 +60,4 @@
     <p>Solution: <a href="https://github.com/cwchan0212/fcc-quote">Source</a>
       | <a href="https://codepen.io/cwchan0212/pen/abqxrpx">demo@codepen</a></p>
   </body>
+</html>
